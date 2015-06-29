@@ -10,17 +10,17 @@
 
 ############## Set Variables
 
-adAdmin=Administrator
+adAdmin="adadmin"
 	# Set the AD Domain Admin username - DO NOT leave these in place when not using the script!
 
-adPass="SPS6-yip"
+adPass="yourpw"
 	# Set the AD Domain Admin password - DO NOT leave these in place when not using the script!
 
-adDomain=amsys.co.uk
+adDomain="domain.com"
 	# Set the AD Domain name, e.g. myaddomain.local
 	# though PLEASE don't use .local for your AD domain, that's just asking for trouble!
 
-adOU="CN=Computers,DC=amsys,DC=co,DC=uk"
+adOU="CN=Computers,DC=domain,DC=com"
 	# Set the OU for the machine to be put into. E.G.:
 	# "OU=Macs,OU=Computers,DC=mydomain,DC=Local" DO remember to put it in quotes
 
