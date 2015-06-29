@@ -1,0 +1,38 @@
+# Top level files & folders to exclude:
+
+- Downloads
+- .Trash
+- .DS_Store
+- Public
+- Sites
+
+# Library folder items to exclude:
+
+- Address Book Plug-Ins
+- Application Support
+- Assistants
+- Audio
+- Autosave Information
+- Caches
+- Cookies
+- Calendars
+- ColorPickers
+- Compositions
+- Favorites
+- FontCollections
+- Fonts
+- Icons
+- iMovie
+- Input Methods
+- Internet Plug-Ins
+- Keyboard Layouts
+- Keychains
+- Logs
+- PreferencePanes
+- *com.apple.LaunchServices
+- Printers
+- PubSub
+- Screen Savers
+- Sounds
+- Spelling
+- Voices
