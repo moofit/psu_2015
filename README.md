@@ -6,3 +6,4 @@ Repository of scripts that were referenced during the Penn State MacAdmin Confer
 - massLoginTest.sh - The code to be used in Apple Remote Desktop to login a set of Macs at the same time
 - mountHome.sh - A script to mount the user's SMBHome attribute
 - syncup.sh - A script to sync the user's local home directory data to their network home 
+- restrict_scope.sh - Switches from "All domains" to a specific AD domain for directory lookups
