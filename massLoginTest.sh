@@ -10,10 +10,10 @@
 # no responsibility for loss or damage
 # caused by this script.
 
-osascript -e 'tell application "System Events" to keystroke "username"' \
-osascript -e 'tell application "System Events" to keystroke tab' \
-osascript -e 'tell application "System Events" to delay 0.5' \
-osascript -e 'tell application "System Events" to keystroke "password"' \
+osascript -e 'tell application "System Events" to keystroke "username"'
+osascript -e 'tell application "System Events" to keystroke tab'
+osascript -e 'tell application "System Events" to delay 0.5'
+osascript -e 'tell application "System Events" to keystroke "password"'
 osascript -e 'tell application "System Events" to keystroke return'
 
 exit 0
